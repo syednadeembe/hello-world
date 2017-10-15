@@ -4,6 +4,7 @@ import org.junit.Test;
 
 public class HelloWorldTest {
 
+	// This is the first test case
 	@Test
 	public void testMain() {
 
