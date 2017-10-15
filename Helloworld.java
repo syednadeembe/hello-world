@@ -5,6 +5,7 @@ public class Helloworld {
 		Message();
 	}
 
+	// this method has test coverage 
 	public static String Message() {
 		// TODO Auto-generated method stub
 		return "hello world";
